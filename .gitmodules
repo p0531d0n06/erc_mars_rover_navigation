@@ -1,0 +1,3 @@
+[submodule "point_lio_ros2"]
+	path = point_lio_ros2
+	url = https://github.com/dfloreaa/point_lio_ros2.git
